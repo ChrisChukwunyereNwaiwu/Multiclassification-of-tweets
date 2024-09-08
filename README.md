@@ -23,10 +23,10 @@ This project focuses on classifying tweets into multiple categories using Natura
 
 
 ## Features
-`Data preprocessing`: Cleaning, tokenization, and vectorization of tweets.
-`Feature extraction`: TF-IDF and other vectorization techniques.
-`Model training`: Logistic Regression, Random Forest, and Support Vector Machines (SVM).
-`Performance evaluation`: Confusion Matrix, Accuracy, Precision, Recall, and F1 Score.
+-`Data preprocessing`: Cleaning, tokenization, and vectorization of tweets.
+-`Feature extraction`: TF-IDF and other vectorization techniques.
+-`Model training`: Logistic Regression, Random Forest, and Support Vector Machines (SVM).
+-`Performance evaluation`: Confusion Matrix, Accuracy, Precision, Recall, and F1 Score.
 
 ## Dataset
 The dataset used consists of tweets, each labeled with specific categories. These labels are used to train and test the classification models.

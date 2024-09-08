@@ -1,5 +1,5 @@
 ### Multiclassification of Tweets Using NLP. 
-This project focuses on classifying tweets into multiple categories using Natural Language Processing (NLP) techniques. The project leverages machine learning algorithms and NLP methods to perform multiclass classification, helping to understand and categorize textual data from Twitter.
+This project uses Natural Language Processing (NLP) techniques to classify tweets into multiple categories. The project leverages machine learning algorithms and NLP methods to perform multiclass classification, helping to understand and categorize textual data from Twitter.
 
 ## Repository Structure
 - `Multiclassification_of_tweets.ipynb`: Notebook containing the machine learning model development.
@@ -23,10 +23,13 @@ This project focuses on classifying tweets into multiple categories using Natura
 
 
 ## Features
--`Data preprocessing`: Cleaning, tokenization, and vectorization of tweets.
--`Feature extraction`: TF-IDF and other vectorization techniques.
--`Model training`: Logistic Regression, Random Forest, and Support Vector Machines (SVM).
--`Performance evaluation`: Confusion Matrix, Accuracy, Precision, Recall, and F1 Score.
+`Data preprocessing`: Cleaning, tokenization, and vectorization of tweets.
+
+`Feature extraction`: TF-IDF and other vectorization techniques.
+
+`Model training`: Logistic Regression, Random Forest, and Support Vector Machines (SVM).
+
+`Performance evaluation`: Confusion Matrix, Accuracy, Precision, Recall, and F1 Score.
 
 ## Dataset
 The dataset used consists of tweets, each labeled with specific categories. These labels are used to train and test the classification models.

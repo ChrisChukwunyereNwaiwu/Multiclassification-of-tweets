@@ -36,8 +36,7 @@ The dataset used consists of tweets, each labeled with specific categories. Thes
 To reproduce the results of this project, follow these steps:
 
 1. **Clone the repository:**
-
-   ```sh
+ ```sh
    git clone https://github.com/ChrisChukwunyereNwaiwu/Multiclassification-of-tweets.git
 cd Multiclassification-of-tweets
 ```
@@ -64,4 +63,4 @@ All dependencies are listed in the `requirements.txt` file for easy installation
 The trained models are evaluated based on accuracy and other metrics, showcasing how effectively each model can classify tweets into multiple categories.
 
 ## Contributing
-Feel free to fork the repository and submit pull requests if you have any improvements or additional features you'd like to propose.
+You can fix the repository and submit pull requests if you have any improvements or additional features you'd like to propose.
